@@ -54,8 +54,6 @@ const gina = {
 
 <br>
 
-### ｟toolkit｠
-
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/-Figma-1A1A2E?style=for-the-badge&logo=figma&logoColor=F24E1E)
@@ -71,7 +69,7 @@ const gina = {
 
 <div align="center">
 
-📚 *Information Systems student on Asia Cyber University*
+📚 *Information Systems student from Asia Cyber University*
 
 </div>
 
