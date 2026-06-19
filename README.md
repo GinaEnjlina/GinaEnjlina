@@ -16,7 +16,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### ⋆｟about me｠⋆
+### ｟about me｠
 
 i design interfaces for a living and somehow ended up coding a Discord bot too — turns out understanding *how things break* makes you a way better designer.
 
@@ -51,42 +51,10 @@ const gina = {
 </tr>
 </table>
 
-<br>
-
-### ⋆｟what i bring to the table｠⋆
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🎯 not just pretty UIs**
-
-i write the PRD, map the user flow, *then* open Figma. the boring part is the secret sauce.
-
-</td>
-<td width="33%" align="center">
-
-**🧪 i test my own assumptions**
-
-built a real Discord bot to see if my UX flow actually survives contact with reality. (it mostly did.)
-
-</td>
-<td width="33%" align="center">
-
-**🛠️ comfortable in the weeds**
-
-booking funnels, seat maps, CMS dashboards — i don't run from the messy, unglamorous flows.
-
-</td>
-</tr>
-</table>
 
 <br>
 
-
-<br>
-
-### ⋆｟toolkit｠⋆
+### ｟toolkit｠
 
 <div align="center">
 
@@ -103,9 +71,7 @@ booking funnels, seat maps, CMS dashboards — i don't run from the messy, ungla
 
 <div align="center">
 
-🌱 *currently learning just enough Python to be dangerous*
-📚 *Information Systems student on the side (S1, PJJ)*
-⚡ *also tinkers with Arduino & CCTV systems for fun, no idea why*
+📚 *Information Systems student on Asia Cyber University*
 
 </div>
 
