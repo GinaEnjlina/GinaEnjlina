@@ -27,7 +27,6 @@ const gina = {
   role: "UI/UX Designer",
   basedIn: "Indonesia 🇮🇩",
   currentFocus: ["booking UX", "design systems", "side quests"],
-  weakness: "a really good empty state illustration",
 }
 ```
 
@@ -38,13 +37,13 @@ const gina = {
 
 ### ⟢ find me ⟣
 
-[![Portfolio](https://img.shields.io/badge/portfolio-FF6B81?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@PLACEHOLDER-GANTI-LINK-INI)
+[![Portfolio](https://img.shields.io/badge/portfolio-FF6B81?style=for-the-badge&logo=figma&logoColor=white)](https://enjelina.framer.website/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-5865F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PLACEHOLDER-GANTI-LINK-INI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-5865F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gina-e-29229526a/)
 
-[![Instagram](https://img.shields.io/badge/instagram-FF8C42?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/PLACEHOLDER-GANTI-LINK-INI)
+[![Instagram](https://img.shields.io/badge/instagram-FF8C42?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ginaell__/)
 
-[![Email](https://img.shields.io/badge/email%20me-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PLACEHOLDER-GANTI-EMAIL-INI)
+[![Email](https://img.shields.io/badge/email%20me-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ginanaenjelina@gmail.com)
 
 </div>
 
@@ -84,51 +83,6 @@ booking funnels, seat maps, CMS dashboards — i don't run from the messy, ungla
 
 <br>
 
-### ⋆｟things i've shipped｠⋆
-
-<table>
-<tr>
-<td width="50%">
-
-**🛵 Talangin**
-*the "who hasn't paid yet" problem, solved*
-
-A Discord bot born from a very real office group-order crisis. Full PRD → UX flow → actual working code, button clicks and all.
-
-[`view repo →`](https://github.com/GinaEnjlina/talangin-bot)
-
-</td>
-<td width="50%">
-
-**🚌 Tiketux Booking Funnel**
-*making bus tickets less painful*
-
-End-to-end audit and redesign of a multi-operator booking journey — homepage to payment, no step skipped.
-
-[`see case study →`](https://figma.com/@PLACEHOLDER-GANTI-LINK-INI)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📆 30-Day UI Challenge**
-*reps for the design muscle*
-
-Daily sprints covering onboarding, auth, e-commerce, dashboards — full PRDs included, not just pretty screenshots.
-
-[`browse the grind →`](https://figma.com/@PLACEHOLDER-GANTI-LINK-INI)
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-<sub>more on my portfolio,<br>i promise it's not all bus tickets 🙃</sub>
-
-[![Portfolio](https://img.shields.io/badge/full%20portfolio-FF6B81?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@PLACEHOLDER-GANTI-LINK-INI)
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -163,7 +117,7 @@ Daily sprints covering onboarding, auth, e-commerce, dashboards — full PRDs in
 
 open to design collabs, freelance work, or just nerding out about good UX
 
-[![Email](https://img.shields.io/badge/say%20hi-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PLACEHOLDER-GANTI-EMAIL-INI)
+[![Email](https://img.shields.io/badge/say%20hi-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ginanaenjelina@gmail.com)
 
 </div>
 
